@@ -1,5 +1,7 @@
 # DAModularTableView
 
+// inactive
+
 Most apps have some sort of statically-populated UITableView (menu & settings pages). Tired of handling NSArrays of NSDictionaries, or filling your UITableViewDataSource methods with switch-case statements? So was I.
 
 DAModularTableView abstracts this messiness away, and makes modular table view generation more sensical. Add rows and sections to your tableView the way common sense would dictate!
